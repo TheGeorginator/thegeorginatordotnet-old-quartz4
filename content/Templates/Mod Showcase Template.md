@@ -1,4 +1,4 @@
-Prev: [[Mod Showcase Hub]]
+Parent page: [[Mod Showcase Hub]]
 #mod-showcases
 ___ 
 
@@ -6,4 +6,3 @@ ___
 
 CurseForge Link: (Empty)
 Modrinth Link: (Empty)
-___

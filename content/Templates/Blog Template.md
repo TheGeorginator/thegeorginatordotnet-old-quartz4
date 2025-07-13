@@ -1,4 +1,4 @@
-Prev: [[Blog Hub]]
+Parent page: [[Blog Hub]]
 ___ 
 
 Start Post:

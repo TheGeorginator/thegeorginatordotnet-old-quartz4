@@ -13,4 +13,3 @@ List of major areas in the site:
 
 
 Current status of site: What do you think?
-___

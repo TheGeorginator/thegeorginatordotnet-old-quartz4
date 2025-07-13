@@ -1,11 +1,11 @@
-Prev: [[index]]
+Parent page: [[index]]
 ___
 
 Hi! I'm The Georginator, or George.
 
 If you're on this website, it's likely because you know me, or found it in my Discord bio.
 
-The main index of this site, where you'll find everything there is, is at [[index]].
+The main index of this site, where you'll find everything there is, is here: [[index]].
 
 "Somebody else will pick up that torch, if it is a worthy torch to pick up." ~Me 2024
 ___
@@ -78,5 +78,3 @@ Some movies / shows I DON'T recommend
 	- Complete disgrace to the Halo franchise, I didn't even finish it.
 
 - Yeah I think that's the only one for now... Disgraceful.
-
-___

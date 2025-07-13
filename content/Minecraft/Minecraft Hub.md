@@ -1,4 +1,4 @@
-Prev: [[index]]
+Parent page: [[index]]
 ___ 
 This is where all of my information relating to Minecraft is.
 

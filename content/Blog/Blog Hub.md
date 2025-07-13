@@ -1,4 +1,4 @@
-Prev: [[index]]
+Parent page: [[index]]
 ___ 
 
 My blog that I may or may not continue to update!

@@ -1,4 +1,4 @@
-Prev: [[Minecraft Hub]]
+Parent page: [[Minecraft Hub]]
 ___ 
 ## Server Status: Inactive
 Status Key:
@@ -10,16 +10,16 @@ Status Key:
 	- Things planned soon! Check back for status updates!
 
 ## Server Info:
-### Server Host:
+### Server host:
 mc.thegeorginator.net
 ### Current Modpack: 
 (Link will go here when server is active and has a modpack)
 ### Whitelist Status:
 Server is whitelisted for friends only.
-### Misc Info:
+### Other Info:
 none at the moment.
 ## Misc:
-Currently, my server is not active. 
+Currently, my server is not active, or set up. 
 
 This server will likely be a friends only whitelisted server, as I don't have the computing power, nor the want, to put a public Minecraft server up.
 

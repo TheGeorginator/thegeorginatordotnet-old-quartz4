@@ -1,4 +1,4 @@
-Prev: [[Minecraft Hub]]
+Parent page: [[Minecraft Hub]]
 ___ 
 
 My mod showcases!
