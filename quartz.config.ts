@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "TG's Site!",
-    pageTitleSuffix: "Wow for sure!",
+    pageTitleSuffix: " - TheGeorginator.net",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
