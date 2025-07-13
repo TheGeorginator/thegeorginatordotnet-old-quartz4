@@ -1,4 +1,4 @@
-Prev: [[index]]
+Prev: [[Minecraft Hub]]
 ___ 
 
 My mod showcases!
