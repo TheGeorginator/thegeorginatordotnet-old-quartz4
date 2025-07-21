@@ -1,6 +1,6 @@
 Parent page: [[Minecraft Hub]]
 ___ 
-## Server Status: Inactive
+## Server Status: Soon!
 Status Key:
 - Active
 	- The server is up and running! (Or should be)
@@ -14,10 +14,12 @@ Status Key:
 mc.thegeorginator.net
 ### Current Modpack: 
 (Link will go here when server is active and has a modpack)
+(Modpack exists, but is not uploaded to CF or Google Drive, etc.)
 ### Whitelist Status:
 Server is whitelisted for friends only.
 ### Other Info:
-none at the moment.
+- Server Ruleset: [[Medieval Warfare Ruleset]]
+
 ## Misc:
 Currently, my server is not active, or set up. 
 
